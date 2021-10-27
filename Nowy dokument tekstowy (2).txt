@@ -1,0 +1,326 @@
+login as: szypulskik
+szypulskik@213.184.8.36's password:
+Linux bad2 4.10.17-1-pve #1 SMP PVE 4.10.17-16 (Tue, 11 Jul 2017 09:55:44 +0200) x86_64
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+szypulskik@bad2:~$ pwd
+/home/szypulskik
+szypulskik@bad2:~$ cd
+szypulskik@bad2:~$ cd ..
+szypulskik@bad2:/home$ ls
+adamowicza      folender         krajewskij      mslizewski      rutkowskim
+adamowiczk      fragnowskil      kretkiewiczb    msobiecki       rutkowskin
+adamskik        franczakd        kropiak         mstolarczyk     rybinskib
+akowalski       frobins          kruzczynski     mszcypior       rymkiewiczk
+andraskij       frzap            krychg          mszczesniak     sadzewiczm
+andrejczykw     gejdam           kryksp          mszczypior      sdrozda
+asiemaszko      gieckoj          kryzinska       mszulia         sekr
+asledzianowska  gieniuszd        kstrzemieczny   mszymanski      seredam
+aszczesny       godzinak         ktydelski       mtaraszkiewicz  sidora
+atrentowski     golecp           kucinskio       mtawkin         sidoran
+augniewski      goralskiw        kulmaczewskak   mtomaszewski    sipm
+awelnicki       gorczycaf        kwadecki        muliszewski     siurnickip
+awener          goreckig         kzabkiewicz     murachs         sjasinski
+awieczynski     grabowskak       kzacharewicz    muszynskan      sjurczak
+awilk           grabowskid       kzieba          mwaraksa        skrzypinskio
+awitasik        gralewskip       kziolkowski     mwarych         skupinskim
+azalecki        gzabuski         ladoszs         mwasilewski     slapinski
+azarnoch        haszekt          lagodzinskik    mwiatrowski     slawinskis
+baginskim       hincm            laskaj          mwolyniec       slodkowskid
+bakp            horabikm         laskowskim      mzawadzki       sobieckim
+balackik        hryciukp         ldoroszkiewicz  mzielinski      sokolk
+banachm         hrycyka          lejwodap        mziolkowski     sokolniks
+bandzulm        hryniewickij     lemieszeka      napiorkowskim   sokolowskig
+bartkowiakb     huraa            lempickam       nasiadkam       somolecki
+bartkowiakba    jablonskia       lewandowskan    nieznanskid     sosnowskij
+bartosiewiczj   jachimowiczs     lgromacki       nosekn          spicha
+bartosiewiczja  jagodzinskij     licznerskaa     nszczepanski    spodolewski
+bastekp         janickim         listowskik      nwenda          srypinski
+bbiedrzycki     jankowskil       liudmylac       obryckia        sswierzbin
+bdarzinow       jaromink         lzalewski       okulaj          sszlachtowicz
+biendarrak      jaroszt          machniewskim    oleksiakj       statkowski
+boguszp         jarzynskik       magudam         olszaks         stepniakk
+borkowskad      jaszczuka        majchrzakb      olszewskik      stepnowskib
+borkowskid      jburandt         makowskim       orychtelski     suboczm
+borowskil       jeznacha         maksymowm       ostrowskij      susk
+brummansa       jgolabek         malczyka        ostrowskim      sutulaa
+brzoskak        jhause           malinowskij     ozalewski       swagner
+bsurowiec       jjurewicz        malons          pajaks          swielgosz
+butkiewiczp     jlubacha         markowskak      pantowb         swietochowskik
+bzurek          jnadratowski     maruszewskiw    parzychm        szakrzewski
+cabajk          jpogorzelski     marzecp         pelaka          szczepanskim
+calkab          jpulawski        maternag        pelicaa         szczesniakw
+chaichukl       jsyperek         mbielecki       pglinski        szelagowskim
+chmielewskid    jtarzanowski     mejlune         piatkiewiczk    sztabinskim
+churas          jurczakb         mglod           pietrzakm       szymanskam
+ciemerycha      jurewiczj        mgrygorczuk     piotrowiczr     szymanskan
+cwikp           jwyzlic          mierzejewskim   piotrowskit     szymanskij
+czajkowskia     jzegota          mikolajewskik   pisarskij       szymanskim
+czajkowskij     kaczmarczykm     miksztoa        pliszkaa        szypulskik
+dabrowskaa      kalamarskil      milewskik       pmiros          tluczko
+dabrowskim      karczj           milewskio       powirskim       trentowskia
+dbrzezin        kawczynskii      minkowskis      protsailod      trzcinskam
+ddreslinski     kawinskih        mipietrzyk      prusika         ubankowska
+diminski        kfilipowicz      mjamrozy        psudol          vpoltavtsev
+dlugoleckia     kibitlewskij     mkaminski       pszczepkowski   wachk
+dnieznanski     kierklok         mklukowski      ptruchan        wardowskip
+dobrenkon       kkrecik          mkrukowski      purzyckib       wewersajtysw
+domanskas       klobuszenskij    mlawicki        pzadroga        wielgolewskip
+dondalskio      kludwiczuk       mlewandowski    radzanowskib    winnickan
+dplocharczyk    kmalinowski      mlukaszewicz    rafalowskam     wisniewskio
+drozdap         kmarszalkiewicz  molszewski      rakielj         wlaszcz
+drzaszczk       knopfd           mpietrzyk       rborkowski      wojcickij
+dsojka          kokoszkok        mploski         reksak          wojciechowskam
+dtomczak        konzieba         mpolkowski      reutj           woznowskir
+duczeks         kopkaj           mras            rkordys         wroblewskij
+dwolniak        kosmam           mraszkowski     rodzenkon       wskowronski
+dykb            kotarskip        mroczkowskik    roguskib        wturski
+dzabijak        kowalczykw       mrozk           romanowskaa     wzoreka
+dziegiela       kowalewskim      mrozowskim      rozmyslowiczk   zaczekk
+eczaplicka      kownackim        mrybacki        rozwadowskia    zembrowskim
+eolszewski      kozakp           msadokierska    ruchalam        zuka
+eporeda         koziatekj        msenderowski    ruminskid       zwierzynskim
+falkowskie      kozlowskip       msieklicki      rusiakf
+szypulskik@bad2:/home$ ls-
+-bash: ls-: command not found
+szypulskik@bad2:/home$ cd szypulskik
+szypulskik@bad2:~$ ls
+szypulskik@bad2:~$ ls -a
+.  ..  .bash_logout  .bashrc  .profile
+szypulskik@bad2:~$ cat .bash history
+cat: .bash: No such file or directory
+cat: history: No such file or directory
+szypulskik@bad2:~$ mkdir testowy
+szypulskik@bad2:~$ ls -l
+total 4
+drwxr-xr-x 2 szypulskik szypulskik 4096 Oct 27 09:28 testowy
+szypulskik@bad2:~$ cd testowy
+szypulskik@bad2:~/testowy$ ls
+szypulskik@bad2:~/testowy$ touch test.txt
+szypulskik@bad2:~/testowy$ ls -l
+total 0
+-rw-r--r-- 1 szypulskik szypulskik 0 Oct 27 09:29 test.txt
+szypulskik@bad2:~/testowy$ nano test.txt
+szypulskik@bad2:~/testowy$ cat test.txt
+plik testowy
+szypulskik@bad2:~/testowy$ cd ~
+szypulskik@bad2:~$ passwd
+Changing password for szypulskik.
+(current) UNIX password:
+Enter new UNIX password:
+Retype new UNIX password:
+passwd: password updated successfully
+szypulskik@bad2:~$ ^M
+-bash: $'\r': command not found
+szypulskik@bad2:~$ kacper123#@!a
+-bash: !a: event not found
+szypulskik@bad2:~$ mysql -u szypulskik -p
+Enter password:
+Welcome to the MySQL monitor.  Commands end with ; or \g.
+Your MySQL connection id is 526
+Server version: 8.0.22 MySQL Community Server - GPL
+
+Copyright (c) 2000, 2020, Oracle and/or its affiliates. All rights reserved.
+
+Oracle is a registered trademark of Oracle Corporation and/or its
+affiliates. Other names may be trademarks of their respective
+owners.
+
+Type 'help;' or '\h' for help. Type '\c' to clear the current input statement.
+
+mysql> show databases;
++--------------------+
+| Database           |
++--------------------+
+| information_schema |
+| szypulskik         |
++--------------------+
+2 rows in set (0.35 sec)
+
+mysql> use szypulskik
+Database changed
+mysql> show tables;
+Empty set (0.31 sec)
+
+mysql>
+mysql> drop databases szypulskik;
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'databases szypulskik' at line 1
+mysql> drop database szypulskik
+    -> drop database szypulskik
+    -> create database szypulskik;
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'drop database szypulskik
+create database szypulskik' at line 2
+mysql> drop database szypulskik;
+Query OK, 0 rows affected (0.07 sec)
+
+mysql> create database szypulski;
+ERROR 1044 (42000): Access denied for user 'szypulskik'@'%' to database 'szypulski'
+mysql> drop database szypulskik
+    -> ;
+ERROR 1008 (HY000): Can't drop database 'szypulskik'; database doesn't exist
+mysql> drop database szypulskik;
+ERROR 1008 (HY000): Can't drop database 'szypulskik'; database doesn't exist
+mysql> drop database szypulskik;
+ERROR 1008 (HY000): Can't drop database 'szypulskik'; database doesn't exist
+mysql> show database;
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'database' at line 1
+mysql> create database szypulskik;
+Query OK, 1 row affected (0.03 sec)
+
+mysql> CREATE TABLE pracownik(ID_Pracownika INT PRIMARY KEY,imie VARCHAR(30) NOT NULL,nazwisko VARCHAR(50) NOT NULL DEFAULT
+    -> 'Kowalski',
+    -> zarobki DOUBLE(10,2),
+    -> Data_urodzenia DATE,
+    -> stanowisko ENUM('pranownik fizyczny','ksiegowa','kasjer')
+    -> stanowisko ENUM('GIT'));
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'stanowisko ENUM('GIT'))' at line 6
+mysql> ;
+ERROR:
+No query specified
+
+mysql> stanowisko ENUM('pranownik fizyczny','ksiegowa','kasjer'));
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'stanowisko ENUM('pranownik fizyczny','ksiegowa','kasjer'))' at line 1
+mysql> stanowisko ENUM('pracownik fizyczny','ksiegowa','kasjer;));
+    '>
+    '> ';
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'stanowisko ENUM('pracownik fizyczny','ksiegowa','kasjer;));
+       stanowisko ENUM('pracownik fizyczny','ksiegowa','kasjer';))
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'stanowisko ENUM('pracownik fizyczny','ksiegowa','kasjer'' at line 1
+    -> stanowisko ENUM('pracownik fizyczny','ksiegowa','kasjer'));
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '))
+stanowisko ENUM('pracownik fizyczny','ksiegowa','kasjer'))' at line 1
+mysql>  stanowisko ENUM('pracownik fizyczny','ksiegowa','kasjer'));
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'stanowisko ENUM('pracownik fizyczny','ksiegowa','kasjer'))' at line 1
+mysql> CREATE TABLE pracownik(ID_Pracownika INT PRIMARY KEY);
+ERROR 1046 (3D000): No database selected
+mysql> use szypulskik;
+Database changed
+mysql> CREATE TABLE pracownik(id_pracownik INT PRIMARY KEY,
+    -> imie VARCHAR(30) NOT NULL,
+    -> nazwisko VARCHAR(50) NOT NULL DEFAULT 'Kowalski',
+    -> zarobki DOUBLE (10,2),
+    -> data_urodzenia DATE,
+    -> stanowisko ENUM('kasjer','ksiegowa','menager'));
+Query OK, 0 rows affected, 1 warning (0.64 sec)
+
+mysql> CREATE TABLE postac(id_postaci INT PRIMARY KEY, nazwa VARCHAR(40),rodzaj ENUM ('wiking','ptak','kobieta'),data_ur DATE,wiek INTEGER);
+Query OK, 0 rows affected (0.50 sec)
+
+mysql> INSERT INTO postac VALUES ('JAN KOWALSKI');
+ERROR 1136 (21S01): Column count doesn't match value count at row 1
+mysql> INSERT INTO postac VALUES ('jan');
+ERROR 1136 (21S01): Column count doesn't match value count at row 1
+mysql> INSERT INTO postac VALUES ('123');
+ERROR 1136 (21S01): Column count doesn't match value count at row 1
+mysql> INSERT INTO postac (imie) VALUES('Bjorn');
+ERROR 1054 (42S22): Unknown column 'imie' in 'field list'
+mysql> INSERT INTO postac VALUES('123');
+ERROR 1136 (21S01): Column count doesn't match value count at row 1
+mysql> SHOW TABLES
+    -> ;
++----------------------+
+| Tables_in_szypulskik |
++----------------------+
+| postac               |
+| pracownik            |
++----------------------+
+2 rows in set (0.00 sec)
+
+mysql> DESC postac;
++------------+---------------------------------+------+-----+---------+-------+
+| Field      | Type                            | Null | Key | Default | Extra |
++------------+---------------------------------+------+-----+---------+-------+
+| id_postaci | int                             | NO   | PRI | NULL    |       |
+| nazwa      | varchar(40)                     | YES  |     | NULL    |       |
+| rodzaj     | enum('wiking','ptak','kobieta') | YES  |     | NULL    |       |
+| data_ur    | date                            | YES  |     | NULL    |       |
+| wiek       | int                             | YES  |     | NULL    |       |
++------------+---------------------------------+------+-----+---------+-------+
+5 rows in set (0.00 sec)
+
+mysql> INSERT INTO nazwa('Bjorn','Drozd','Tesciowa');
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''Bjorn','Drozd','Tesciowa')' at line 1
+mysql> INSERT INTO postac(nazwa)VALUES('Tesciow');
+ERROR 1364 (HY000): Field 'id_postaci' doesn't have a default value
+mysql> INSERT INTO postac(nazwa),VALUES('Tesciowa');
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ',VALUES('Tesciowa')' at line 1
+mysql> INSERT INTO postac(nazwa)VALUES('Tesciowa');
+ERROR 1364 (HY000): Field 'id_postaci' doesn't have a default value
+mysql> INSERT INTO postac(id_postaci,nazwa) VALUES ('123','Tesciowa');
+Query OK, 1 row affected (0.01 sec)
+
+mysql> INSERT INTO postac(rodzaj)VALUES ('bjorn','Drozd','Tesciowa');
+ERROR 1136 (21S01): Column count doesn't match value count at row 1
+mysql> INSERT INTO postac(wiking) VALUES('Bjorn');
+ERROR 1054 (42S22): Unknown column 'wiking' in 'field list'
+mysql> DESC postac;
++------------+---------------------------------+------+-----+---------+-------+
+| Field      | Type                            | Null | Key | Default | Extra |
++------------+---------------------------------+------+-----+---------+-------+
+| id_postaci | int                             | NO   | PRI | NULL    |       |
+| nazwa      | varchar(40)                     | YES  |     | NULL    |       |
+| rodzaj     | enum('wiking','ptak','kobieta') | YES  |     | NULL    |       |
+| data_ur    | date                            | YES  |     | NULL    |       |
+| wiek       | int                             | YES  |     | NULL    |       |
++------------+---------------------------------+------+-----+---------+-------+
+5 rows in set (0.00 sec)
+
+mysql> SHOW CREATE TABLE postac;
++--------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Table  | Create Table                                                                                                                                                                                                                                                                                                |
++--------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| postac | CREATE TABLE `postac` (
+  `id_postaci` int NOT NULL,
+  `nazwa` varchar(40) DEFAULT NULL,
+  `rodzaj` enum('wiking','ptak','kobieta') DEFAULT NULL,
+  `data_ur` date DEFAULT NULL,
+  `wiek` int DEFAULT NULL,
+  PRIMARY KEY (`id_postaci`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci |
++--------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+1 row in set (0.00 sec)
+
+mysql> INSERT INTO posstac(rodzaj) VALUES ('bjorn','drozd','tesciowa');
+ERROR 1146 (42S02): Table 'szypulskik.posstac' doesn't exist
+mysql> INSTER INTO postac (rodzaj) VALUES ('bjorn','drozd','tesciowa,);
+    '> ';
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'INSTER INTO postac (rodzaj) VALUES ('bjorn','drozd','tesciowa,);
+'' at line 1
+mysql> INSERT INTO postac (rodzaj) VALUES ('bjorn','drozd','tesciowa');
+ERROR 1136 (21S01): Column count doesn't match value count at row 1
+mysql>
+Display all 753 possibilities? (y or n)
+mysql> INSERT INTO rodzaj(wiking,ptak,kobieta)VALUES('bjorn','drozd','tesciowa');
+ERROR 1146 (42S02): Table 'szypulskik.rodzaj' doesn't exist
+mysql> DESC postac;
++------------+---------------------------------+------+-----+---------+-------+
+| Field      | Type                            | Null | Key | Default | Extra |
++------------+---------------------------------+------+-----+---------+-------+
+| id_postaci | int                             | NO   | PRI | NULL    |       |
+| nazwa      | varchar(40)                     | YES  |     | NULL    |       |
+| rodzaj     | enum('wiking','ptak','kobieta') | YES  |     | NULL    |       |
+| data_ur    | date                            | YES  |     | NULL    |       |
+| wiek       | int                             | YES  |     | NULL    |       |
++------------+---------------------------------+------+-----+---------+-------+
+5 rows in set (0.00 sec)
+
+mysql> INSERT INTO postac(rodzaj)VALUES ('bjorn','drozd','tesciowa');
+ERROR 1136 (21S01): Column count doesn't match value count at row 1
+mysql> INSERT INTO postac(id_postaci,nazwa,rodzaj,data_ur,wiek)VALUES('123','JAN','bjorn','drozd','kobieta','1060','54');
+ERROR 1136 (21S01): Column count doesn't match value count at row 1
+mysql> INSTER INTO posatc (rodzaj) VALUES('1','2','3');
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'INSTER INTO posatc (rodzaj) VALUES('1','2','3')' at line 1
+mysql> INSERT INTO postac VALUES ('1','2','3');
+ERROR 1136 (21S01): Column count doesn't match value count at row 1
+mysql> INSERT INTO postac INSERT INTO postac VALUES (" "," ","tesciowa","1000","56");
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'INSERT INTO postac VALUES (" "," ","tesciowa","1000","56")' at line 1
+mysql> UPDATE postac tesciowa=88;
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=88' at line 1
+mysql> UPDATE postac tesciowa='88';
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '='88'' at line 1
+mysql>
