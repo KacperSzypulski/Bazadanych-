@@ -1,0 +1,36 @@
+    '> +------------+---------------------------------+------+-----+---------+----------------+
+    '> | Field      | Type                            | Null | Key | Default | Extra          |
+    '> +------------+---------------------------------+------+-----+---------+----------------+
+    '> | ID_postaci | int                             | NO   | PRI | NULL    | auto_increment |
+    '> | nazwa      | varchar(40)                     | YES  |     | NULL    |                |
+    '> | rodzaj     | enum('wiking','ptak','kobieta') | YES  |     | NULL    |                |
+    '> | data_ur    | datetime                        | YES  |     | NULL    |                |
+    '> | wiek       | int                             | YES  |     | NULL    |                |
+    '> +------------+---------------------------------+------+-----+---------+----------------+
+    '> 5 rows in set (0.00 sec)
+    '>
+    '> mysql> INSERT INTO postac (rodzaj) VALUES('bjorn,drozd,tesciowa');
+    '> ERROR 1265 (01000): Data truncated for column 'rodzaj' at row 1
+    '> mysql> INSERT INTO postac (rodzaj) VALUES ('bjorn')
+    '>     -> ;
+    '> ERROR 1265 (01000): Data truncated for column 'rodzaj' at row 1
+    '> mysql> ^C
+    '> mysql> ALTER TABLE postac
+    '>     -> ADD PRIMARY KEY(pesel);
+    '> ERROR 1068 (42000): Multiple primary key defined
+    '> mysql> ALTER TABLE postac
+    '>     -> ADD CONSTRAINT pesel PRIMARY KEY;
+    '> ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 2
+    '> mysql> ALTER TABLE postac
+    '>     -> DROP PRIMARY KEY(ID_postaci);
+    '> ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(ID_postaci)' at line 2
+    '> mysql> ALTER TABLE postac  DROP PRIMARY KEY(ID_postaci)
+    '>     -> ALTER TABLE postac
+    '>     -> DROP PRIMARY KEY (ID_postaci);
+    '> ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(ID_postaci)
+    -> ALTER TABLE postac
+    -> DROP PRIMARY KEY (ID_postaci)' at line 1
+    '> mysql> ALTER TABLE postac  DROP PRIMARY KEY(ID_postaci) ALTER TABLE postac  DROP PRIMARY KEY (ID_postaci);
+    '> ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(ID_postaci) ALTER TABLE postac  DROP PRIMARY KEY (ID_postaci)' at line 1
+    '> mysql>
+    '>
